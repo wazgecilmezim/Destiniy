@@ -1,0 +1,6 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#333333"/>
+  <rect x="50" y="50" width="412" height="412" rx="40" fill="#8b956d" stroke="#111" stroke-width="20"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="65" font-weight="bold" fill="#111">DESTINIY</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#111">KARDELEN &amp; DOGU</text>
+</svg>
